@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do list: interactive list
+# To Do list: Peer to peer review
 
 > This project is built using webpack and served by a webpack dev server.
 
@@ -28,7 +28,7 @@ Web Browser (Google Chrome recommended)
 
 ## How to Run
 
-[linkToSource](https://github.com/PeteUgwu/To-Do-list)
+[linkToSource](https://github.com/PeteUgwu/To-do-list-review)
 
 To run the project do the following:
 
